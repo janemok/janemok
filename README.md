@@ -15,6 +15,11 @@
 
 <br />
 
+### ✏Relevant classes I've taken include:
+
+- Discrete Mathematics, Data Structures in Java, Advanced Programming, Natural Language Processing, Psychology of Curiosity, Language
+Brain and Mind, Cognitive Neuroscience, Developmental Psychology
+
 - 📫 Please reach out at jane.mok@columbia.edu! You can also connect with me on [LinkedIn](https://www.linkedin.com/in/mokjane/)
 
 

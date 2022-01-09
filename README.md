@@ -9,10 +9,9 @@
 - 🤸 Summer 2021 I did user research (A/B testing and more) at [The Women's Network](https://www.thewomens.network/) that increased retention and grew their audience by 20% (30,000 members and growing!)
 -  👩‍🏫 I taught at Java, Python, and HTML/CSS classes to elementary school kids [First Code Academy](https://www.firstcodeacademy.com/)
 
-### Projects I've been working on
+### Recently
 
-- 💻 Recently, I trained a [neural network dependency parser](https://github.com/janemok/Neural-Network-Dependency-Parsing)
-- 
+- 💻 I trained a [neural network dependency parser](https://github.com/janemok/Neural-Network-Dependency-Parsing)
 
 <br />
 

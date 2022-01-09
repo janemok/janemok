@@ -10,6 +10,7 @@
 -  👩‍🏫 I taught at Java, Python, and HTML/CSS classes to elementary school kids [First Code Academy](https://www.firstcodeacademy.com/)
 
 <br />
+
 - 💻 Recently, I trained a [neural network dependency parser](https://github.com/janemok/Neural-Network-Dependency-Parsing)
 
 <br />

@@ -1,6 +1,6 @@
 ### 😁 Hi, I’m Jane!
 - 🏫 I study CS and Cognitive Science at Barnard College, Columbia University.
-- 🔥 I am passionate about human-computer interactions, natural language processing and perception, and the psychology of curiosity and impulsivity
+- 🧠 I am passionate about human-computer interactions, natural language processing and perception, and the psychology of curiosity and impulsivity
 
 - 📖 My mentors include Professor [John Morrison](http://www.columbia.edu/~jrm2182/) and Professor [Caroline Marvin](https://psychology.columbia.edu/content/caroline-marvin)
 
